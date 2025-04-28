@@ -1,0 +1,2 @@
+# Ransomware-Detection-Using-Spark-MLlib
+Dự án luận văn này tập trung vào việc phát hiện ransomware trong hệ thống lưu trữ sử dụng Machine Learning. Dữ liệu được sử dụng trong nghiên cứu là tập dữ liệu RANSAP, với mục tiêu phát hiện các hành vi của ransomware thông qua phân tích CPU, RAM, và các đặc điểm khác của hệ thống.
